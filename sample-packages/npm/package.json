@@ -1,3 +1,4 @@
 {
-  "your": "json config here"
+  "name": "hello-world-package",
+  "version": "0.1.0"
 }
