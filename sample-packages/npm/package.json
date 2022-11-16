@@ -1,5 +1,5 @@
 {
-  "name": "aapoko-efi/hello-world-package",
+  "name": "@aapoko-efi/hello-world-package",
   "version": "0.1.8",
   "repository": {
     "type": "git",
