@@ -1,6 +1,6 @@
 {
   "name": "hello-world-package",
-  "version": "0.1.0",
+  "version": "0.1.8",
   "repository": {
     "type": "git",
     "url": "https://github.com/aapoko-efi/exercise-publish-package2.git"
